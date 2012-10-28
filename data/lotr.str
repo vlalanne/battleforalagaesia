@@ -56825,4 +56825,66 @@ CONTROLBAR:ConstructDwarvenForge
 // context: Build Gondor Blacksmith
 "Build Forge"
 END
+
+//------------------------------Empire Barst-------------------------
+OBJECT:EmpireBarst
+"Lord Barst"
+END
+
+OBJECT:EmpireBarstMounted
+"Lord Barst Mounted"
+END
+
+CONTROLBAR:ToolTipBuildEmpireBarst
+"Recruit the imperial General"
+END
+CONTROLBAR:EmpireBarstRecruit
+"Recruit the imperial General"
+END
+CONTROLBAR:EmpireBarstRevive
+"Revive the fallen Hero, Lord Barst"
+END
+CONTROLBAR:EmpireBarstHotkey
+"Lord &Barst"
+END
+
+CONTROLBAR:LW_Hero_EmpireBarst
+"Lord Barst"
+END
+
+CONTROLBAR:LW_ToolTipBuild_EmpireBarst
+"Unit Type: Hero Army Leader\n"
+END
+
+CONTROLBAR:ToolTipEmpireBarstLeadership
+"Requires level 3 \n Allies near Lord Barst gain \n +50% Damage, +50% Armor, \n and earn experience twice as fast \n  \n Passive ability       Does not stack"
+END
+
+
+CONTROLBAR:BarstTraining
+"Vete&ran"
+END
+
+CONTROLBAR:ToolTipBarstTraining
+"Requires Level 5 \n Targeted units gain experience \n Left click icon then left click on target units"
+END
+
+
+//---Varden Raider---
+OBJECT:VardenRaider
+"Varden Raiders"
+END
+
+CONTROLBAR:ConstructVardenRaider
+"Va&rden Raiders"
+END
+
+CONTROLBAR:ToolTipBuildVardenRaider
+"Create a Varden Raiders Battalion"
+END
+
+
+CONTROLBAR:LW_Unit_VardenRaiderHorde
+"Varden Raider Battalion"
+END
 //------- END ---------o
