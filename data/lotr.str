@@ -32852,7 +32852,7 @@ OBJECT:ElvenStormShip
 End
 
 OBJECT:ElvenVigilantEntExpansion
-"Vigilant Ent Expansion"
+"Battle Spellcaster Expansion"
 End
 
 OBJECT:ElvenWatchtowerExpansion
@@ -56887,4 +56887,40 @@ END
 CONTROLBAR:LW_Unit_VardenRaiderHorde
 "Varden Raider Battalion"
 END
+
+//---Dwarven  Engineer---
+OBJECT:DwarvenEngineer
+"Dûrgrimst Ebardac Engineer"
+END
+
+BANNERUI:DwarvenEngineer
+// Singluar name of the Dwarven Guardian category displayed in the army summary for WotR
+"Dûrgrimst Ebardac Engineer"
+End
+
+BANNERUI:DwarvenEngineers
+// Plural name of the Dwarven Guardian category displayed in the army summary for WotR
+"Dûrgrimst Ebardac Engineers"
+End
+
+CONTROLBAR:ConstructDwarvenEngineer
+"Dûrgrimst E&bardac Engineer"
+END
+
+CONTROLBAR:ToolTipBuildDwarvenEngineer
+"Battlefield Support Unit"
+END
+
+CONTROLBAR:LW_Unit_DwarvenEngineer
+"Dûrgrimst Ebardac Engineer"
+END
+
+CONTROLBAR:LW_Unit_DwarvenEngineerPlural
+"Dûrgrimst Ebardac Engineers"
+END
+
+CONTROLBAR:LW_ToolTipBuild_DwarvenEngineer
+"Unit Type: Elite Infantry\n Battlefield Support Unit"
+END
+
 //------- END ---------o
