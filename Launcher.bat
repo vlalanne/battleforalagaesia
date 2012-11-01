@@ -1,2 +1,2 @@
-"<ROTWK launcher>" -mod "<mod Folder>"
+"ROTWK launcher" -mod "mod Folder"
 
