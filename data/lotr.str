@@ -8664,7 +8664,7 @@ END
 
 
 UPGRADE:FireArrowUpgrade
-"Fire Arrows"
+"Improved Arrows"
 END
 
 UPGRADE:ElfStealthUpgrade
@@ -25777,6 +25777,10 @@ UPGRADE:GondorBasicTraining
 "Banner Carrier"
 END
 
+UPGRADE:BasicTraining
+"Banner Carrier"
+END
+
 UPGRADE:IsengardBasicTraining
 "Banner Carrier"
 END
@@ -31995,7 +31999,7 @@ CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel2Upgrade
 End
 
 CONTROLBAR:ToolTipBuildDwarvenForgeWorksLevel3Upgrade
-"Allows the research of Mithril Mail and Flaming Shot"
+"Allows the research of Flaming Shot"
 End
 
 CONTROLBAR:ToolTipBuildEvilBombardShip
@@ -40731,19 +40735,19 @@ CONTROLBAR:BatallionAreadyHasUpgrade
 END
 
 CONTROLBAR:PurchaseUpgradeDwarvenMithrilMail
-"Purchase Dwar&ven Mithril Mail"
+"Purchase Dwar&ven Mail"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeDwarvenMithrilMail
-"Upgrades this battalion with Mithril Mail \n Significantly reduces the amount of damage taken"
+"Upgrades this battalion with Dwarven Mail \n Significantly reduces the amount of damage taken"
 END
 
 CONTROLBAR:PurchaseTechnologyDwarvenMithrilMail
-"Research Dwar&ven Mithril Mail"
+"Research Dwar&ven Mail"
 END
 
 CONTROLBAR:ToolTipPurchaseTechnologyDwarvenMithrilMail
-"Allows battalions and Demolishers to purchase the Mithril Mail upgrade \n When equipped, significantly reduces the amount of damage taken"
+"Allows battalions and Demolishers to purchase the Dwarven Mail upgrade \n When equipped, significantly reduces the amount of damage taken"
 END
 
 CONTROLBAR:PurchaseUpgradeWildBasicTraining
@@ -40795,19 +40799,19 @@ CONTROLBAR:ToolTipPurchaseTechnologyWildForgedBlades
 END
 
 CONTROLBAR:PurchaseUpgradeWildHeavyArmor
-"Purchase Sca&venged Armor"
+"Purchase Hea&vy Armor"
 END
 
 CONTROLBAR:ToolTipPurchaseUpgradeWildHeavyArmor
-"Upgrades this horde with Scavenged Armor \n When equipped, significantly reduces the amount of damage taken"
+"Upgrades this horde with Heavy Armor \n When equipped, significantly reduces the amount of damage taken"
 END
 
 CONTROLBAR:PurchaseTechnologyWildHeavyArmor
-"Research Sca&venged Armor"
+"Research Hea&vy Armor"
 END
 
 CONTROLBAR:ToolTipPurchaseechnologyWildHeavyArmor
-"Allows hordes to purchase Scavenged Armor \n Significantly reduces the amount of damage taken"
+"Allows hordes to purchase Heavy Armor \n Significantly reduces the amount of damage taken"
 END
 
 CONTROLBAR:PurchaseTechnologySpiderVenomSacks
@@ -41274,7 +41278,7 @@ TOOLTIP:DwarvenForgedBlades
 END
 
 TOOLTIP:DwarvenMithrilMail
-"Mithril Mail"
+"Dwarven Mail"
 END
 
 TOOLTIP:DwarvenFlamingShot
@@ -41310,7 +41314,7 @@ TOOLTIP:WildForgedBlades
 END
 
 TOOLTIP:WildHeavyArmor
-"Scavenged Armor"
+"Heavy Armor"
 END
 
 TOOLTIP:WildVenomSacs
@@ -41591,7 +41595,7 @@ END
 
 
 UPGRADE:WildHeavyArmor
-"Scavenged Armor"
+"Heavy Armor"
 END
 
 
@@ -41705,7 +41709,7 @@ UPGRADE:DwarvenForgedBlades
 END
 
 UPGRADE:DwarvenMithrilMail
-"Mithril Mail"
+"Dwarven Mail"
 END
 
 UPGRADE:DwarvenFlamingShot
