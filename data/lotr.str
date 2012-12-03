@@ -8572,7 +8572,7 @@ CONTROLBAR:CommandPointsLivingWorldDescription
 END
 
 CONTROLBAR:MaxEvenstarPower
-"Power of the Evenstar"
+"Powers"
 END
 
 CONTROLBAR:MaxEvenstarPowerDescription
@@ -8580,7 +8580,7 @@ CONTROLBAR:MaxEvenstarPowerDescription
 END
 
 CONTROLBAR:MaxRingPower
-"Power of the One Ring"
+"Powers"
 END
 
 CONTROLBAR:MaxRingPowerDescription
@@ -14773,8 +14773,8 @@ END
 CONTROLBAR:ToolTipMordorTrollCage
 "Trains Mountain, Drummer, and Attack Trolls"
 END
-CONTROLBAR:ToolTipordorSiegeWorks
-"Builds siege weapons and summons the Black Riders \nResearches weapon and armor upgrades"
+CONTROLBAR:ToolTipMordorSiegeWorks
+"Builds siege weapons"
 END
 CONTROLBAR:ToolTipMordorHaradrimPalace
 "Trains the elite of the Empire soldiers"
@@ -16543,7 +16543,7 @@ CONTROLBAR:ToolTipLightTorch
 END
 
 CONTROLBAR:TooltipBladeMaster
-"Requires Level 8 \n Brom temporarily gains +200% Damage and Double Attack Speed \n Left click to activate"
+"Requires Level 8 \n Temporarily gains +200% Damage and Double Attack Speed \n Left click to activate"
 END
 
 CONTROLBAR:ToolTipNarsilAttack
