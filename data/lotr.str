@@ -9068,7 +9068,7 @@ OBJECT:GondorFighter
 END
 
 OBJECT:GondorTowerShieldGuard
-"Wandering Sentry"
+"Wandering Tribes Sentry"
 END
 
 OBJECT:GondorRanger
@@ -22399,12 +22399,12 @@ End
 
 BANNERUI:GondorTowerGuard
 // Singluar name of the Gondor Tower Guard category displayed in the army summary for WotR
-"Wandering Sentry"
+"Wandering Tribes Sentry"
 End
 
 BANNERUI:GondorTowerGuards
 // Plural name of the Gondor Tower Guards category displayed in the army summary for WotR
-"Wandering Sentrys"
+"Wandering Tribes Sentries"
 End
 
 
@@ -24243,7 +24243,7 @@ OBJECT:HordeGondorSoldier
 END
 
 OBJECT:HordeGondorTowerGuard
-"Southern Sentrys"
+"Wandering Tribes Sentries"
 END
 
 OBJECT:HordeGondorArcher
@@ -28268,11 +28268,11 @@ CONTROLBAR:LW_ToolTip_GondorArcherHorde
 END
 
 CONTROLBAR:LW_Unit_GondorRangerHorde
-"Wandering Hunter Battalion"
+"Wandering Tribes Hunter Battalion"
 END
 
 CONTROLBAR:LW_Unit_GondorRangerHordePlural
-"Wandering Hunter Battalions"
+"Wandering Tribes Hunter Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorRangerHorde
@@ -28284,11 +28284,11 @@ CONTROLBAR:LW_ToolTip_GondorRangerHorde
 END
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHorde
-"Wandering Sentry Battalion"
+"Wandering Tribes Sentry Battalion"
 END
 
 CONTROLBAR:LW_Unit_GondorTowerGuardHordePlural
-"Wandering Sentry Battalions"
+"Wandering Tribes Sentry Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_GondorTowerGuardHorde
