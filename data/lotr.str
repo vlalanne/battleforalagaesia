@@ -21579,7 +21579,7 @@ LWA:ElvesArmy
 "Elven Army"
 END
 LWA:EntsArmy
-"Ents"
+"Awakened Trees"
 END
 LWA:RohanArmy
 "Rohan Army"
@@ -22172,12 +22172,12 @@ End
 
 BANNERUI:Ent
 // Singluar name of the ent category displayed in the army summary from the banner ui
-"Ent"
+"Awakened Tree"
 End
 
 BANNERUI:Ents
 // Plural name of the ent category displayed in the army summary from the banner ui
-"Ents"
+"Awakened Trees"
 End
 
 BANNERUI:Archer
@@ -24022,7 +24022,7 @@ LWA:Elves
 END
 
 LWA:Ents
-"Ents"
+"Awakened Trees"
 END
 
 LWA:Rohan
@@ -28648,11 +28648,11 @@ CONTROLBAR:LW_ToolTip_ElvenRivendellLancerHorde
 END
 
 CONTROLBAR:LW_Unit_ElvenEnt
-"Ent"
+"Awakened Tree"
 END
 
 CONTROLBAR:LW_Unit_ElvenEntPlural
-"Ents"
+"Awakened Trees"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenEnt
