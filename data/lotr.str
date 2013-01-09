@@ -55535,6 +55535,14 @@ OBJECT:EmpireElite
 "Laughing Dead"
 End
 
+CONTROLBAR:ToolTipEmpireEliteSlayer
+"Requires Level 7 \n Laughing Deads gains +200% Damage and Double Attack Speed \n Left click to activate"
+END
+
+
+CONTROLBAR:TooltipEmpireEliteDeathMask
+"Requires Level 3 \nNearby Enemy Units suffer -25% damage. \nPassive Ability."
+End
 //----------------------Empire Sorcerer--------------------------------
 OBJECT:EmpireSorcerer
 "Black-Hand Sorcerer"
