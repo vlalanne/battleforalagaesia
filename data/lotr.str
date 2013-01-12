@@ -33884,7 +33884,7 @@ OBJECT:SpellBookDragonStrikeDragon
 End
 
 OBJECT:SpiderLair
-"Highwaymen Camp"
+"Ruffians Camp"
 End
 
 OBJECT:TEMP
@@ -40387,7 +40387,7 @@ OBJECT:BarrowWightLairDescription
 END
 
 OBJECT:SpiderLairDescription
-"Allows training of Highwaymen"
+"Allows training of Ruffians"
 END
 
 OBJECT:WargLairDescription
