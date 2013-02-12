@@ -9222,7 +9222,7 @@ OBJECT:DwarvenBanner
 END
 
 OBJECT:HordeDwarvenGuardian
-"Dûrgrimst Ingeitum Warrior"
+"Dûrgrimst Ingeitum Warriors"
 END
 
 OBJECT:DwarvenDain
@@ -56763,6 +56763,21 @@ CONTROLBAR:ToolTipBuildDwarvenDeepDwellerHorde
 "Strong vs. Pikemen \n Can become stealthed"
 END
 
+OBJECT:DwarvenDeepDweller
+"Deep-dweller"
+END
+
+OBJECT:HordeDwarvenDeepDweller
+"Deep-dweller"
+END
+
+CONTROLBAR:LW_Unit_DwarvenDeepDwellerHorde
+"Deep-dweller Battalion"
+END
+
+CONTROLBAR:LW_Unit_DwarvenDeepDwellerHordePlural
+"Deep-dweller Battalions"
+END
 //----------------------------------Elven Warrior Spellcaster--------------------------------
 CONTROLBAR:ConstructElvenWarriorWizard
 "Train Elven Warrior Spellcaster"
@@ -56935,4 +56950,7 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenEngineer
 "Unit Type: Elite Infantry\n Battlefield Support Unit"
 END
 
+CONTROLBAR:DwarvenBunker
+"&Hall"
+End
 //------- END ---------o
