@@ -8724,7 +8724,7 @@ UPGRADE:MenOfDaleAllies
 END
 
 UPGRADE:EntAllies
-"Ent Allies"
+"Awakened Trees Allies"
 END
 
 UPGRADE:GondorCounterweights
@@ -8938,7 +8938,7 @@ OBJECT:RohanTheodenMounted
 END
 
 OBJECT:RohanEnt
-"Ent"
+"Awakened Tree"
 END
 
 OBJECT:RohanTreeBeard
@@ -16215,7 +16215,7 @@ END
 
 // ENT UNITS
 CONTROLBAR:ConstructEnt
-"Awaka&ned"
+"Awaka&ned Tree"
 END
 CONTROLBAR:ConstructEntFir
 "Awakaned Fir"
