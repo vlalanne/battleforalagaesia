@@ -32690,7 +32690,7 @@ OBJECT:DwarvenBattleWagonMenOfDale
 End
 
 OBJECT:DwarvenBunker
-"Hall"
+"Guard Tower"
 End
 
 OBJECT:DwarvenBunkerDescription
@@ -48394,12 +48394,12 @@ End
 
 BANNERUI:AngmarThrallMaster
 // Singluar name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Thrall Master"
+"Slave Master"
 End
 
 BANNERUI:AngmarThrallMasters
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
-"Angmar Thrall Masters"
+"Slave Masters"
 End
 
 LWA:Angmar
@@ -48689,7 +48689,7 @@ CONTROLBAR:LW_ToolTipBuild_AngmarTrollSling
 END
 
 CONTROLBAR:LW_Unit_AngmarThrallMaster
-"Thrall Master"
+"Slave Master"
 END
 
 CONTROLBAR:LW_ToolTip_AngmarThrallMaster
@@ -48697,7 +48697,7 @@ CONTROLBAR:LW_ToolTip_AngmarThrallMaster
 END
 
 CONTROLBAR:LW_Unit_AngmarThrallMasterPlural
-"Thrall Masters"
+"Slave Masters"
 END
 
 CONTROLBAR:LW_ToolTipBuild_AngmarThrallMaster
@@ -48941,11 +48941,11 @@ OBJECT:HordeWildmanAxeThrower
 End
 
 OBJECT:AngmarRhudaurSpearmen
-"Rhudaur Spearmen"
+"Slave Spearmen"
 End
 
 OBJECT:AngmarRhudaurSlingers
-"Rhudaur Axe Throwers"
+"Slave Axe Throwers"
 End
 
 OBJECT:AngmarBarracksDescription
@@ -48969,7 +48969,7 @@ OBJECT:AngmarMillHouse
 End
 
 OBJECT:AngmarThrallMaster
-"Thrall Master"
+"Slave Master"
 End
 
 
@@ -49156,7 +49156,7 @@ CONTROLBAR:ConstructAngmarBarracks2Upgrade
 End
 
 CONTROLBAR:ConstructAngmarThrallMaster
-"Thrall &Master"
+"Slave &Master"
 End
 
 CONTROLBAR:ConstructAngmarDarkDunedainHorde
@@ -49208,11 +49208,11 @@ CONTROLBAR:ThrallMasterUpgradeWolfRiders
 End
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSpearmen
-"Rhudaur S&pearmen"
+"Slave S&pearmen"
 End
 
 CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
-"Rhudaur Axe &Throwers"
+"Slave Axe &Throwers"
 End
 
 CONTROLBAR:NecromancerDeathMask
@@ -49318,11 +49318,11 @@ CONTROLBAR:ToolTipMorgramirRuin
 END
 
 CONTROLBAR:ToolTipHwaldarLeadership
-"Rhudaur Axe Throwers and Spearmen near the Hero gain +20% Damage and +20% Armor \n Passive ability"
+"Slave Axe Throwers and Spearmen near the Hero gain +20% Damage and +20% Armor \n Passive ability"
 End
 
 CONTROLBAR:ToolTipHwaldarBrigandage
-"Requires Level 3 \n Rhudaur Axe Throwers and Spearmen near the Hero steal resources whenever dealing damage to enemy units \n Passive ability"
+"Requires Level 3 \n Slave Axe Throwers and Spearmen near the Hero steal resources whenever dealing damage to enemy units \n Passive ability"
 END
 
 CONTROLBAR:ToolTipHwaldarSummonHillmen1
@@ -49330,7 +49330,7 @@ CONTROLBAR:ToolTipHwaldarSummonHillmen1
 END
 
 CONTROLBAR:ToolTipHwaldarSummonHillmen2
-"Requires Level 10 \n Summons several hordes of Rhudaur Axe Throwers and Spearmen \n to fight for you \n Left click icon then left click on pathable location"
+"Requires Level 10 \n Summons several hordes of Slave Axe Throwers and Spearmen \n to fight for you \n Left click icon then left click on pathable location"
 END
 
 
@@ -49421,11 +49421,11 @@ CONTROLBAR:TooltipThrallMasterUpgradeWolfRiders
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSpearmen
-"Summon Rhudaur Spearmen to serve you \nStrong vs. Cavalry"
+"Summon Slave Spearmen to serve you \nStrong vs. Cavalry"
 End
 
 CONTROLBAR:TooltipThrallMasterUpgradeRhudaurSlingers
-"Summon Rhudaur Axe Throwers to serve you \nStrong at Range"
+"Summon Slave Axe Throwers to serve you \nStrong at Range"
 End
 
 CONTROLBAR:TooltipNecromancerDeathMask
@@ -49835,11 +49835,11 @@ UPGRADE:AngmarThrallMasterWolfRiders
 End
 
 UPGRADE:AngmarThrallMasterRhudaurSpearmen
-"Rhudaur Spearmen"
+"Slave Spearmen"
 End
 
 UPGRADE:AngmarThrallMasterRhudaurSlingers
-"Rhudaur Axe Throwers"
+"Slave Axe Throwers"
 End
 
 GUI:AIForfeitsInWOTRSkirmish
@@ -50714,15 +50714,15 @@ END
 
 
 OBJECT:RohanSpearmen
-"Varden Speamen"
+"Varden Spearmen"
 END
 
 OBJECT:HordeRohanSpearmen
-"Varden Speamen"
+"Varden Spearmen"
 END
 
 CONTROLBAR:ConstructRohanSpearmenHorde
-"Varden S&peamen"
+"Varden S&pearmen"
 END
 
 CONTROLBAR:ToolTipBuildRohanSpearmenHorde
@@ -50730,7 +50730,7 @@ CONTROLBAR:ToolTipBuildRohanSpearmenHorde
 END
 
 CONTROLBAR:LW_Unit_RohanSpearmenHorde
-"Varden Speamen"
+"Varden Spearmen"
 END
 
 CONTROLBAR:LW_ToolTip_RohanSpearmenHorde
@@ -53580,11 +53580,11 @@ CONTROLBAR:LW_Unit_AngmarHillTrollsHordePlural
 END
 
 CONTROLBAR:LW_Unit_RohanSpearmenHorde
-"Varden Speamen Battalion"
+"Varden Spearmen Battalion"
 END
 
 CONTROLBAR:LW_Unit_RohanSpearmenHordePlural
-"Varden Speamen Battalions"
+"Varden Spearmen Battalions"
 END
 
 CONTROLBAR:LW_ToolTipBuild_RohanSpearmenHorde
@@ -53596,11 +53596,11 @@ CONTROLBAR:LW_ToolTip_RohanSpearmenHorde
 END
 
 BANNERUI:RohanSpearmen
-"Varden Speamen"
+"Varden Spearmen"
 END
 
 BANNERUI:PluralRohanSpearmen
-"Varden Speamen"
+"Varden Spearmen"
 END
 
 CONTROLBAR:LW_ToolTipBuild_ElvenRivendellArcherHorde
@@ -56951,6 +56951,47 @@ CONTROLBAR:LW_ToolTipBuild_DwarvenEngineer
 END
 
 CONTROLBAR:DwarvenBunker
-"&Hall"
+"Guard To&wer"
+End
+
+
+//---Empire  Slaver---
+
+OBJECT:HordeEmpireSlaver
+"Slavers"
+END
+
+CONTROLBAR:LW_Unit_EmpireSlaverHorde
+"Slaver Horde"
+END
+
+CONTROLBAR:LW_ToolTip_EmpireSlaverHorde
+"Unit Type: Elite Swordsmen\nStrong vs. Pikemen\n"
+END
+
+CONTROLBAR:LW_Unit_EmpireSlaverHordePlural
+"Slaver Hordes"
+END
+
+CONTROLBAR:LW_ToolTipBuild_EmpireSlaverHorde
+"Unit Type: Elite Swordsmen\nStrong vs. Pikemen\n"
+END
+
+CONTROLBAR:ConstructEmpireSlaverHorde
+"S&lavers"
+End
+
+CONTROLBAR:ToolTipBuildEmpireSlaverHorde
+"Strong vs. Pikemen\n Requires Alliance with the Slavers"
+End
+
+BANNERUI:EmpireSlaver
+// Singluar name of the Angmar Guardian category displayed in the army summary for WotR
+"Slaver"
+End
+
+BANNERUI:EmpireSlavers
+// Plural name of the Angmar Guardian category displayed in the army summary for WotR
+"Slavers"
 End
 //------- END ---------o
