@@ -56994,4 +56994,25 @@ BANNERUI:EmpireSlavers
 // Plural name of the Angmar Guardian category displayed in the army summary for WotR
 "Slavers"
 End
+
+CONTROLBAR:ToolTipSpecialAbilitySlavery
+"The slavers earn resources whenever killing enemy units \n Passive ability"
+End
+
+CONTROLBAR:SpecialAbilitySlavery
+"Slavery"
+End
+
+//------Ugal Dog Horde------
+CONTROLBAR:ConstructUrgalDogHorde
+"Urgal Dog &Handler"
+End
+
+CONTROLBAR:ToolTipBuildUrgalDogHorde
+"Strong vs. Swordsmen and Archers\n Requires Alliance with the Young Urgals Hunting Group"
+End
+
+OBJECT:UrgalDogHandler
+"Urgal Dog Handler"
+End
 //------- END ---------o
