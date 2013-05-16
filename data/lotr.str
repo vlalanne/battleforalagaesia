@@ -57015,4 +57015,22 @@ End
 OBJECT:UrgalDogHandler
 "Urgal Dog Handler"
 End
+
+OBJECT:UrgalDog
+"Dog"
+End
+
+
+//----------------------------Surdan Knight-------------------------------------------
+OBJECT:SurdanKnight
+"Surdan Knight"
+END
+
+CONTROLBAR:ConstructElvenSurdanKnight
+"Surdan &Knight"
+END
+
+CONTROLBAR:ToolTipBuildSurdanKnight
+"Elite Fighter \n Can switch between on foot and mounted\n Requires Alliance with Surda "
+END
 //------- END ---------o
