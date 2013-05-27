@@ -56722,7 +56722,7 @@ CONTROLBAR:SelectBeastCohort
 "Beasts of the Forest"
 End
 CONTROLBAR:SelectYoungUrgalCohort
-"Young Urgals Hunting Group"
+"Urgals Hunting Group"
 End
 
 CONTROLBAR:ToolTipCommandSelectAlliedCohort
@@ -57003,13 +57003,13 @@ CONTROLBAR:SpecialAbilitySlavery
 "Slavery"
 End
 
-//------Ugal Dog Horde------
+//------Urgal Dog Horde------
 CONTROLBAR:ConstructUrgalDogHorde
 "Urgal Dog &Handler"
 End
 
 CONTROLBAR:ToolTipBuildUrgalDogHorde
-"Strong vs. Swordsmen and Archers\n Requires Alliance with the Young Urgals Hunting Group"
+"Strong vs. Swordsmen and Archers\n Requires Alliance with the Urgals Hunting Group"
 End
 
 OBJECT:UrgalDogHandler
@@ -57033,4 +57033,20 @@ END
 CONTROLBAR:ToolTipBuildSurdanKnight
 "Elite Fighter \n Can switch between on foot and mounted\n Requires Alliance with Surda "
 END
+
+
+
+//------Urgal Hunting Party------
+CONTROLBAR:ConstructUrgalHuntingParty
+"Urgal &Hunting Party"
+End
+
+CONTROLBAR:ToolTipBuildUrgalHuntingParty
+"Strong vs. Swordsmen and Archers"
+End
+
+OBJECT:UrgalHuntingParty
+"Urgal Hunting Party"
+End
+
 //------- END ---------o
